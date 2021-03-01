@@ -4,6 +4,6 @@
         <title> nbenedictunm - Home</title>
     </head>
     <body>
-        <h1> The nbenedict Organization Home Page</h1>
+        <h1> The nbenedictunm Organization Home Page</h1>
     </body>
 </html>
